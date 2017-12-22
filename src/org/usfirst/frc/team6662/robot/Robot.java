@@ -25,7 +25,7 @@ public class Robot extends IterativeRobot {
 	public static OI oi;
 	Victor motor1 = new Victor(0);
 	SmartDashboard sd = new SmartDashboard();
-	//change man
+	// I need pay!
 	// commment 2
 	// woohoo!
 	
